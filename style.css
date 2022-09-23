@@ -1,0 +1,10 @@
+body {
+    background-color: #F3F6FB;
+}
+.container {
+    margin-top: 2em;
+    border: 0.1px solid #ffffff;
+    border-radius: 0.5em;
+    background-color: #ffffff;
+    box-shadow: 4px 2px #888888;
+}
